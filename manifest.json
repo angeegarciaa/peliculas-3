@@ -1,0 +1,19 @@
+{
+  "short_name": "CineApp",
+  "name": "CineApp - Películas y Series",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "logo.png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#050817",
+  "theme_color": "#0066ff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "purpose": "any maskable"
+
+}
